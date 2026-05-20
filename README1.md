@@ -1,7 +1,7 @@
 
 👋 Hey, I'm Maitri Patel
 
-🎓 Computer Engineering Student at BVM Engineering College, Vidyanagar, Anand
+🎓 Computer Engineering Student at BVM Engineering College, Vidyanagar, Anand.
 
 💻 Currently learning and building with:
 HTML • CSS • C • Python
