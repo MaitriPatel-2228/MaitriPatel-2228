@@ -24,7 +24,7 @@ width="100%"
 💻 Learning and building with:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,c,python,vscode,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,c,python,vscode,github,javascript" />
 </p>
 
 🌱 Still a beginner, but improving consistently step by step.
